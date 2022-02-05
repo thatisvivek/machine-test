@@ -26,7 +26,8 @@ def solution(string: str) -> int:
     [
         ('a', 0),
         ('teeterson', 5),
-        ('barbar', -1)]
+        ('barbar', -1)
+    ]
 )
 def test_solution(inp, result):
     assert solution(inp) == result
