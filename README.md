@@ -14,3 +14,4 @@ Coding questions asked during interviews.
 |10|Binary Search|[Python](./machine_test/binary_search.py)|[Tests](./tests/test_binary_search.py)||
 |11|Binary Search Tree|[Python](./machine_test/binary_search_tree.py)|[Tests](./tests/test_binary_search_tree.py)||
 |12|Rearrange Numbers Matching Their Indices|[Python](./machine_test/move_nums_to_indices.py)|[Tests](./tests/test_move_nums_to_indices.py)||
+|13|Longest Consecutive Subsequence|[Python](./machine_test/longest_consecutive_subseq.py)|[Tests](./tests/test_lcs.py)||
